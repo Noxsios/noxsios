@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## [📖 My Resume Site](https://noxsios.net/)
+
+## [📞 Contact Info](https://meta.razzle.workers.dev/)
+
 <!--
 **Noxsios/noxsios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
