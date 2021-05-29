@@ -2,7 +2,17 @@
 
 ## [📖 My Resume Site](https://noxsios.net/)
 
-## [📞 Contact Info](https://meta.razzle.workers.dev/)
+## 📞 Contact
+
+```bash
+$ curl -s meta.razzle.workers.dev | jq
+```
+
+or
+
+```powershell
+> irm meta.noxsios.net | ConvertTo-Json
+```
 
 <!--
 **Noxsios/noxsios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
