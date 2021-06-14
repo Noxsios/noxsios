@@ -5,13 +5,13 @@
 ## 📞 Contact
 
 ```bash
-$ curl -s meta.razzle.workers.dev | jq
+$ curl -sL meta.noxsios.net | jq   
 ```
 
 or
 
 ```powershell
-> irm meta.noxsios.net | ConvertTo-Json
+> irm meta.noxsios.net | ConvertTo-Json   
 ```
 
 <!--
