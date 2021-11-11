@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-## [📖 My Resume Site](https://noxsios.net/)
+## [📖 My Resume Site](https://razzle.cloud/)
 
 ## 📞 Contact
 
 ```bash
-$ curl -sL meta.noxsios.net | jq   
+$ curl -sL meta.razzle.cloud | jq   
 ```
 
 or
 
 ```powershell
-> irm meta.noxsios.net | ConvertTo-Json   
+> irm meta.razzle.cloud | ConvertTo-Json   
 ```
 
 <!--
